@@ -1,0 +1,12 @@
+title: TRQ
+description: Track Real Quality — session weather for Claude and Codex.
+theme: jekyll-theme-cayman
+show_downloads: false
+lang: en
+url: https://trq.io
+
+exclude:
+  - CNAME
+  - MAINTENANCE.md
+  - LICENSE
+  - .gitignore
