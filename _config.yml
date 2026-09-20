@@ -1,5 +1,6 @@
-title: TRQ
-description: Track Real Quality — session weather for Claude and Codex.
+title: TRQ — Track Real Quality
+description: Session weather for Claude and Codex — not another model leaderboard.
+image: /logo.png
 theme: jekyll-theme-cayman
 show_downloads: false
 lang: en

@@ -1,7 +1,3 @@
-# TRQ — Track Real Quality
-
-**Session weather for Claude and Codex — not another model leaderboard.**
-
 Same model, same project — one session is genius, the next is trash. You rate
 it. The file stays on your machine. Later, `trq week` shows how the last seven
 days actually felt.
